@@ -1,5 +1,6 @@
 # Oil rate prediction on N steps
 Here is an example of a solution to oil rate prediction on N_steps
+Solution is based on Catboost regression model with deep feature engineering research. Features are aimed to analyze sliding window statistics
 
 ## Catboost model RMSE = 2.78
 ## Constant prediction RMSE = 3.2
