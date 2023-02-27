@@ -2,8 +2,8 @@
 Here is an example of a solution to oil rate prediction on 90 days ahead applied to 106 wells
 Solution is based on Catboost regression model with deep feature engineering research. Features are aimed to analyze sliding window statistics
 
-## Catboost model RMSE = 2.78
-## Constant prediction RMSE = 3.2
+## Validation Catboost model RMSE = 2.78
+## Validation constant prediction RMSE = 3.2
 
 # Predictions
 # Well 28
